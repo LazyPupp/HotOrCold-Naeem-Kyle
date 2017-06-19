@@ -1,5 +1,5 @@
 .nav-bar{
-
+  padding:1em;
 }
 
 .nav-bar ul{
@@ -12,6 +12,11 @@
 
 .nav-bar li, .nav-bar a{
     text-decoration:none;
+}
+
+.nav-bar a{
+    color:white;
+    font-size: 20px;
 }
 
 .what{
